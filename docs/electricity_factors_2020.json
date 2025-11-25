@@ -1,0 +1,1174 @@
+[
+  {
+    "country": "ASEAN (Ember)",
+    "carbon_intensity_elec": 589.4739990234375
+  },
+  {
+    "country": "Afghanistan",
+    "carbon_intensity_elec": 93.22034454345703
+  },
+  {
+    "country": "Africa",
+    "carbon_intensity_elec": 564.8341064453125
+  },
+  {
+    "country": "Africa (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Africa (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Africa (Ember)",
+    "carbon_intensity_elec": 564.9261474609375
+  },
+  {
+    "country": "Albania",
+    "carbon_intensity_elec": 24.48210906982422
+  },
+  {
+    "country": "Algeria",
+    "carbon_intensity_elec": 632.6067504882812
+  },
+  {
+    "country": "American Samoa",
+    "carbon_intensity_elec": 647.058837890625
+  },
+  {
+    "country": "Angola",
+    "carbon_intensity_elec": 171.3265991210938
+  },
+  {
+    "country": "Antarctica",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "carbon_intensity_elec": 628.5714111328125
+  },
+  {
+    "country": "Argentina",
+    "carbon_intensity_elec": 394.7041015625
+  },
+  {
+    "country": "Armenia",
+    "carbon_intensity_elec": 251.3088989257812
+  },
+  {
+    "country": "Aruba",
+    "carbon_intensity_elec": 545.45458984375
+  },
+  {
+    "country": "Asia",
+    "carbon_intensity_elec": 609.4745483398438
+  },
+  {
+    "country": "Asia (Ember)",
+    "carbon_intensity_elec": 607.1583862304688
+  },
+  {
+    "country": "Asia Pacific (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Asia and Oceania (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Australia",
+    "carbon_intensity_elec": 642.315673828125
+  },
+  {
+    "country": "Australia and New Zealand (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Austria",
+    "carbon_intensity_elec": 133.4009246826172
+  },
+  {
+    "country": "Azerbaijan",
+    "carbon_intensity_elec": 680
+  },
+  {
+    "country": "Bahamas",
+    "carbon_intensity_elec": 655.1724243164062
+  },
+  {
+    "country": "Bahrain",
+    "carbon_intensity_elec": 904.1342163085938
+  },
+  {
+    "country": "Bangladesh",
+    "carbon_intensity_elec": 678.9141235351562
+  },
+  {
+    "country": "Barbados",
+    "carbon_intensity_elec": 613.2075805664062
+  },
+  {
+    "country": "Belarus",
+    "carbon_intensity_elec": 498.7026062011719
+  },
+  {
+    "country": "Belgium",
+    "carbon_intensity_elec": 166.6100311279297
+  },
+  {
+    "country": "Belize",
+    "carbon_intensity_elec": 159.0909118652344
+  },
+  {
+    "country": "Benin",
+    "carbon_intensity_elec": 595.9595336914062
+  },
+  {
+    "country": "Bermuda",
+    "carbon_intensity_elec": 644.0678100585938
+  },
+  {
+    "country": "Bhutan",
+    "carbon_intensity_elec": 23.74670219421387
+  },
+  {
+    "country": "Bolivia",
+    "carbon_intensity_elec": 483.9337463378906
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "carbon_intensity_elec": 711.1375122070312
+  },
+  {
+    "country": "Botswana",
+    "carbon_intensity_elec": 848.6238403320312
+  },
+  {
+    "country": "Brazil",
+    "carbon_intensity_elec": 133.3577117919922
+  },
+  {
+    "country": "British Virgin Islands",
+    "carbon_intensity_elec": 687.5
+  },
+  {
+    "country": "Brunei",
+    "carbon_intensity_elec": 895.4703979492188
+  },
+  {
+    "country": "Bulgaria",
+    "carbon_intensity_elec": 383.9063415527344
+  },
+  {
+    "country": "Burkina Faso",
+    "carbon_intensity_elec": 547.1697998046875
+  },
+  {
+    "country": "Burundi",
+    "carbon_intensity_elec": 189.1891937255859
+  },
+  {
+    "country": "CIS (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Cambodia",
+    "carbon_intensity_elec": 438.6160888671875
+  },
+  {
+    "country": "Cameroon",
+    "carbon_intensity_elec": 320.4545288085938
+  },
+  {
+    "country": "Canada",
+    "carbon_intensity_elec": 160.49853515625
+  },
+  {
+    "country": "Cape Verde",
+    "carbon_intensity_elec": 547.6190795898438
+  },
+  {
+    "country": "Cayman Islands",
+    "carbon_intensity_elec": 637.68115234375
+  },
+  {
+    "country": "Central African Republic",
+    "carbon_intensity_elec": 0
+  },
+  {
+    "country": "Central America (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Central and South America (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Chad",
+    "carbon_intensity_elec": 628.5714111328125
+  },
+  {
+    "country": "Chile",
+    "carbon_intensity_elec": 436.8269653320312
+  },
+  {
+    "country": "China",
+    "carbon_intensity_elec": 606.257568359375
+  },
+  {
+    "country": "Colombia",
+    "carbon_intensity_elec": 271.2540283203125
+  },
+  {
+    "country": "Comoros",
+    "carbon_intensity_elec": 692.3077392578125
+  },
+  {
+    "country": "Congo",
+    "carbon_intensity_elec": 665.8291625976562
+  },
+  {
+    "country": "Cook Islands",
+    "carbon_intensity_elec": 500
+  },
+  {
+    "country": "Costa Rica",
+    "carbon_intensity_elec": 27.30375289916992
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "carbon_intensity_elec": 396.0923461914062
+  },
+  {
+    "country": "Croatia",
+    "carbon_intensity_elec": 226.7573699951172
+  },
+  {
+    "country": "Cuba",
+    "carbon_intensity_elec": 638.9910278320312
+  },
+  {
+    "country": "Curacao",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Cyprus",
+    "carbon_intensity_elec": 581.4432983398438
+  },
+  {
+    "country": "Czechia",
+    "carbon_intensity_elec": 460.1748046875
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "carbon_intensity_elec": 25.57953453063965
+  },
+  {
+    "country": "Denmark",
+    "carbon_intensity_elec": 188.9433135986328
+  },
+  {
+    "country": "Djibouti",
+    "carbon_intensity_elec": 692.3077392578125
+  },
+  {
+    "country": "Dominica",
+    "carbon_intensity_elec": 571.4285278320312
+  },
+  {
+    "country": "Dominican Republic",
+    "carbon_intensity_elec": 581.32373046875
+  },
+  {
+    "country": "EU (Ember)",
+    "carbon_intensity_elec": 261.2310485839844
+  },
+  {
+    "country": "East Timor",
+    "carbon_intensity_elec": 660
+  },
+  {
+    "country": "Eastern Africa (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Eastern Europe and Eurasia (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Ecuador",
+    "carbon_intensity_elec": 159.4758605957031
+  },
+  {
+    "country": "Egypt",
+    "carbon_intensity_elec": 566.3360595703125
+  },
+  {
+    "country": "El Salvador",
+    "carbon_intensity_elec": 153.2385559082031
+  },
+  {
+    "country": "Equatorial Guinea",
+    "carbon_intensity_elec": 574.4680786132812
+  },
+  {
+    "country": "Eritrea",
+    "carbon_intensity_elec": 585.3658447265625
+  },
+  {
+    "country": "Estonia",
+    "carbon_intensity_elec": 404.6052856445312
+  },
+  {
+    "country": "Eswatini",
+    "carbon_intensity_elec": 163.2653045654297
+  },
+  {
+    "country": "Ethiopia",
+    "carbon_intensity_elec": 24.32778549194336
+  },
+  {
+    "country": "Eurasia (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Europe",
+    "carbon_intensity_elec": 296.068603515625
+  },
+  {
+    "country": "Europe (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Europe (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Europe (Ember)",
+    "carbon_intensity_elec": 307.4136047363281
+  },
+  {
+    "country": "European Union (27)",
+    "carbon_intensity_elec": 261.2310485839844
+  },
+  {
+    "country": "Falkland Islands",
+    "carbon_intensity_elec": 1000
+  },
+  {
+    "country": "Faroe Islands",
+    "carbon_intensity_elec": 390.243896484375
+  },
+  {
+    "country": "Fiji",
+    "carbon_intensity_elec": 268.5184936523438
+  },
+  {
+    "country": "Finland",
+    "carbon_intensity_elec": 130.1271057128906
+  },
+  {
+    "country": "France",
+    "carbon_intensity_elec": 59.08005142211914
+  },
+  {
+    "country": "French Guiana",
+    "carbon_intensity_elec": 323.2322998046875
+  },
+  {
+    "country": "French Polynesia",
+    "carbon_intensity_elec": 454.5454406738281
+  },
+  {
+    "country": "G20 (Ember)",
+    "carbon_intensity_elec": 487.5992736816406
+  },
+  {
+    "country": "G7 (Ember)",
+    "carbon_intensity_elec": 365.9769592285156
+  },
+  {
+    "country": "Gabon",
+    "carbon_intensity_elec": 423.2081909179688
+  },
+  {
+    "country": "Gambia",
+    "carbon_intensity_elec": 666.6666870117188
+  },
+  {
+    "country": "Georgia",
+    "carbon_intensity_elec": 175.6272430419922
+  },
+  {
+    "country": "Germany",
+    "carbon_intensity_elec": 355.6594848632812
+  },
+  {
+    "country": "Ghana",
+    "carbon_intensity_elec": 459.19921875
+  },
+  {
+    "country": "Gibraltar",
+    "carbon_intensity_elec": 571.4285888671875
+  },
+  {
+    "country": "Greece",
+    "carbon_intensity_elec": 423.06884765625
+  },
+  {
+    "country": "Greenland",
+    "carbon_intensity_elec": 134.6153869628906
+  },
+  {
+    "country": "Grenada",
+    "carbon_intensity_elec": 636.3636474609375
+  },
+  {
+    "country": "Guadeloupe",
+    "carbon_intensity_elec": 547.058837890625
+  },
+  {
+    "country": "Guam",
+    "carbon_intensity_elec": 625.7310180664062
+  },
+  {
+    "country": "Guatemala",
+    "carbon_intensity_elec": 265.7004699707031
+  },
+  {
+    "country": "Guinea",
+    "carbon_intensity_elec": 274.1935424804688
+  },
+  {
+    "country": "Guinea-Bissau",
+    "carbon_intensity_elec": 625
+  },
+  {
+    "country": "Guyana",
+    "carbon_intensity_elec": 646.0177001953125
+  },
+  {
+    "country": "Haiti",
+    "carbon_intensity_elec": 568.62744140625
+  },
+  {
+    "country": "High-income countries",
+    "carbon_intensity_elec": 392.9718627929688
+  },
+  {
+    "country": "Honduras",
+    "carbon_intensity_elec": 321.1610412597656
+  },
+  {
+    "country": "Hong Kong",
+    "carbon_intensity_elec": 684.1339721679688
+  },
+  {
+    "country": "Hungary",
+    "carbon_intensity_elec": 257.4455871582031
+  },
+  {
+    "country": "Iceland",
+    "carbon_intensity_elec": 28.05717277526855
+  },
+  {
+    "country": "India",
+    "carbon_intensity_elec": 702.4286499023438
+  },
+  {
+    "country": "Indonesia",
+    "carbon_intensity_elec": 685.0455932617188
+  },
+  {
+    "country": "Iran",
+    "carbon_intensity_elec": 632.8104248046875
+  },
+  {
+    "country": "Iraq",
+    "carbon_intensity_elec": 674.1802978515625
+  },
+  {
+    "country": "Ireland",
+    "carbon_intensity_elec": 292.7744750976562
+  },
+  {
+    "country": "Israel",
+    "carbon_intensity_elec": 619.810546875
+  },
+  {
+    "country": "Italy",
+    "carbon_intensity_elec": 334.2726135253906
+  },
+  {
+    "country": "Jamaica",
+    "carbon_intensity_elec": 553.73828125
+  },
+  {
+    "country": "Japan",
+    "carbon_intensity_elec": 527.7489013671875
+  },
+  {
+    "country": "Jordan",
+    "carbon_intensity_elec": 566.6666259765625
+  },
+  {
+    "country": "Kazakhstan",
+    "carbon_intensity_elec": 838.1663208007812
+  },
+  {
+    "country": "Kenya",
+    "carbon_intensity_elec": 71.91780090332031
+  },
+  {
+    "country": "Kiribati",
+    "carbon_intensity_elec": 500
+  },
+  {
+    "country": "Kosovo",
+    "carbon_intensity_elec": 958.208984375
+  },
+  {
+    "country": "Kuwait",
+    "carbon_intensity_elec": 650.1875610351562
+  },
+  {
+    "country": "Kyrgyzstan",
+    "carbon_intensity_elec": 105.1948089599609
+  },
+  {
+    "country": "Laos",
+    "carbon_intensity_elec": 278.0280151367188
+  },
+  {
+    "country": "Latin America and Caribbean (Ember)",
+    "carbon_intensity_elec": 281.8335266113281
+  },
+  {
+    "country": "Latvia",
+    "carbon_intensity_elec": 176.5734252929688
+  },
+  {
+    "country": "Lebanon",
+    "carbon_intensity_elec": 615.890380859375
+  },
+  {
+    "country": "Lesotho",
+    "carbon_intensity_elec": 23.25581359863281
+  },
+  {
+    "country": "Liberia",
+    "carbon_intensity_elec": 466.6666564941406
+  },
+  {
+    "country": "Libya",
+    "carbon_intensity_elec": 824.0677490234375
+  },
+  {
+    "country": "Lithuania",
+    "carbon_intensity_elec": 231.9149169921875
+  },
+  {
+    "country": "Low-income countries",
+    "carbon_intensity_elec": 302.78466796875
+  },
+  {
+    "country": "Lower-middle-income countries",
+    "carbon_intensity_elec": 626.8443603515625
+  },
+  {
+    "country": "Luxembourg",
+    "carbon_intensity_elec": 163.9344177246094
+  },
+  {
+    "country": "Macao",
+    "carbon_intensity_elec": 482.1428833007812
+  },
+  {
+    "country": "Madagascar",
+    "carbon_intensity_elec": 416.6666259765625
+  },
+  {
+    "country": "Malawi",
+    "carbon_intensity_elec": 34.28571319580078
+  },
+  {
+    "country": "Malaysia",
+    "carbon_intensity_elec": 633.69921875
+  },
+  {
+    "country": "Maldives",
+    "carbon_intensity_elec": 621.9512329101562
+  },
+  {
+    "country": "Mali",
+    "carbon_intensity_elec": 401.0152282714844
+  },
+  {
+    "country": "Malta",
+    "carbon_intensity_elec": 506.9767456054688
+  },
+  {
+    "country": "Martinique",
+    "carbon_intensity_elec": 540
+  },
+  {
+    "country": "Mauritania",
+    "carbon_intensity_elec": 472.3926391601562
+  },
+  {
+    "country": "Mauritius",
+    "carbon_intensity_elec": 613.7930908203125
+  },
+  {
+    "country": "Mexico",
+    "carbon_intensity_elec": 486.9220886230469
+  },
+  {
+    "country": "Micronesia (country)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Middle Africa (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Middle East (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Middle East (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Middle East (Ember)",
+    "carbon_intensity_elec": 661.9074096679688
+  },
+  {
+    "country": "Moldova",
+    "carbon_intensity_elec": 673.13916015625
+  },
+  {
+    "country": "Mongolia",
+    "carbon_intensity_elec": 777.1083984375
+  },
+  {
+    "country": "Montenegro",
+    "carbon_intensity_elec": 495.5751953125
+  },
+  {
+    "country": "Montserrat",
+    "carbon_intensity_elec": 1000
+  },
+  {
+    "country": "Morocco",
+    "carbon_intensity_elec": 645.6185302734375
+  },
+  {
+    "country": "Mozambique",
+    "carbon_intensity_elec": 128.2860107421875
+  },
+  {
+    "country": "Myanmar",
+    "carbon_intensity_elec": 487.2203979492188
+  },
+  {
+    "country": "Namibia",
+    "carbon_intensity_elec": 60
+  },
+  {
+    "country": "Nauru",
+    "carbon_intensity_elec": 750
+  },
+  {
+    "country": "Nepal",
+    "carbon_intensity_elec": 22.65372276306152
+  },
+  {
+    "country": "Netherlands",
+    "carbon_intensity_elec": 342.8993225097656
+  },
+  {
+    "country": "Netherlands Antilles",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "New Caledonia",
+    "carbon_intensity_elec": 679.0123291015625
+  },
+  {
+    "country": "New Zealand",
+    "carbon_intensity_elec": 142.5605621337891
+  },
+  {
+    "country": "Nicaragua",
+    "carbon_intensity_elec": 250.6596374511719
+  },
+  {
+    "country": "Niger",
+    "carbon_intensity_elec": 716.4178466796875
+  },
+  {
+    "country": "Nigeria",
+    "carbon_intensity_elec": 523.4210205078125
+  },
+  {
+    "country": "Niue",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Non-OECD (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Non-OECD (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Non-OPEC (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Non-OPEC (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "North America",
+    "carbon_intensity_elec": 385.716552734375
+  },
+  {
+    "country": "North America (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "North America (Ember)",
+    "carbon_intensity_elec": 376.7029724121094
+  },
+  {
+    "country": "North Korea",
+    "carbon_intensity_elec": 424.4812927246094
+  },
+  {
+    "country": "North Macedonia",
+    "carbon_intensity_elec": 623.595458984375
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Norway",
+    "carbon_intensity_elec": 30.39139366149902
+  },
+  {
+    "country": "OECD (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "OECD (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "OECD (Ember)",
+    "carbon_intensity_elec": 367.4524230957031
+  },
+  {
+    "country": "OPEC (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "OPEC (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Oceania",
+    "carbon_intensity_elec": 571.0892944335938
+  },
+  {
+    "country": "Oceania (Ember)",
+    "carbon_intensity_elec": 571.21435546875
+  },
+  {
+    "country": "Oman",
+    "carbon_intensity_elec": 563.6646118164062
+  },
+  {
+    "country": "Other Africa (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Other Americas (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Other Asia Pacific (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Other Asia-Pacific (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Other CIS (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Other Caribbean (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Other Eastern Africa (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Other Europe (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Other Middle Africa (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Other Middle East (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Other North America (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Other Northern Africa (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Other South America (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Other South and Central America (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Other Southern Africa (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Other Western Africa (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Pakistan",
+    "carbon_intensity_elec": 485.4314880371094
+  },
+  {
+    "country": "Palestine",
+    "carbon_intensity_elec": 523.8095092773438
+  },
+  {
+    "country": "Panama",
+    "carbon_intensity_elec": 180.9872131347656
+  },
+  {
+    "country": "Papua New Guinea",
+    "carbon_intensity_elec": 490.243896484375
+  },
+  {
+    "country": "Paraguay",
+    "carbon_intensity_elec": 24.87668800354004
+  },
+  {
+    "country": "Persian Gulf (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Peru",
+    "carbon_intensity_elec": 239.6678466796875
+  },
+  {
+    "country": "Philippines",
+    "carbon_intensity_elec": 598.8206176757812
+  },
+  {
+    "country": "Poland",
+    "carbon_intensity_elec": 738.720947265625
+  },
+  {
+    "country": "Portugal",
+    "carbon_intensity_elec": 248.2973480224609
+  },
+  {
+    "country": "Puerto Rico",
+    "carbon_intensity_elec": 669.1138305664062
+  },
+  {
+    "country": "Qatar",
+    "carbon_intensity_elec": 602.631591796875
+  },
+  {
+    "country": "Rest of World (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Reunion",
+    "carbon_intensity_elec": 643.7994995117188
+  },
+  {
+    "country": "Romania",
+    "carbon_intensity_elec": 277.8482360839844
+  },
+  {
+    "country": "Russia",
+    "carbon_intensity_elec": 417.6539611816406
+  },
+  {
+    "country": "Rwanda",
+    "carbon_intensity_elec": 247.1910095214844
+  },
+  {
+    "country": "Saint Helena",
+    "carbon_intensity_elec": 1000
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "carbon_intensity_elec": 636.3636474609375
+  },
+  {
+    "country": "Saint Lucia",
+    "carbon_intensity_elec": 631.5789184570312
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "carbon_intensity_elec": 600
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "carbon_intensity_elec": 600
+  },
+  {
+    "country": "Samoa",
+    "carbon_intensity_elec": 388.8888854980469
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "carbon_intensity_elec": 636.3636474609375
+  },
+  {
+    "country": "Saudi Arabia",
+    "carbon_intensity_elec": 703.150390625
+  },
+  {
+    "country": "Senegal",
+    "carbon_intensity_elec": 562.706298828125
+  },
+  {
+    "country": "Serbia",
+    "carbon_intensity_elec": 736.1484985351562
+  },
+  {
+    "country": "Seychelles",
+    "carbon_intensity_elec": 576.271240234375
+  },
+  {
+    "country": "Sierra Leone",
+    "carbon_intensity_elec": 50
+  },
+  {
+    "country": "Singapore",
+    "carbon_intensity_elec": 504.6165466308594
+  },
+  {
+    "country": "Slovakia",
+    "carbon_intensity_elec": 158.5408630371094
+  },
+  {
+    "country": "Slovenia",
+    "carbon_intensity_elec": 277.0870361328125
+  },
+  {
+    "country": "Solomon Islands",
+    "carbon_intensity_elec": 700
+  },
+  {
+    "country": "Somalia",
+    "carbon_intensity_elec": 594.5946044921875
+  },
+  {
+    "country": "South Africa",
+    "carbon_intensity_elec": 766.9757080078125
+  },
+  {
+    "country": "South America",
+    "carbon_intensity_elec": 204.629638671875
+  },
+  {
+    "country": "South Korea",
+    "carbon_intensity_elec": 457.3572387695312
+  },
+  {
+    "country": "South Sudan",
+    "carbon_intensity_elec": 642.857177734375
+  },
+  {
+    "country": "South and Central America (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Spain",
+    "carbon_intensity_elec": 199.0981597900391
+  },
+  {
+    "country": "Sri Lanka",
+    "carbon_intensity_elec": 513.0382080078125
+  },
+  {
+    "country": "Sudan",
+    "carbon_intensity_elec": 247.6744232177734
+  },
+  {
+    "country": "Suriname",
+    "carbon_intensity_elec": 346.3414611816406
+  },
+  {
+    "country": "Sweden",
+    "carbon_intensity_elec": 38.71046829223633
+  },
+  {
+    "country": "Switzerland",
+    "carbon_intensity_elec": 36.64768600463867
+  },
+  {
+    "country": "Syria",
+    "carbon_intensity_elec": 690.917724609375
+  },
+  {
+    "country": "Taiwan",
+    "carbon_intensity_elec": 648.023193359375
+  },
+  {
+    "country": "Tajikistan",
+    "carbon_intensity_elec": 109.9502487182617
+  },
+  {
+    "country": "Tanzania",
+    "carbon_intensity_elec": 298.8505554199219
+  },
+  {
+    "country": "Thailand",
+    "carbon_intensity_elec": 571.3961791992188
+  },
+  {
+    "country": "Togo",
+    "carbon_intensity_elec": 508.1967163085938
+  },
+  {
+    "country": "Tonga",
+    "carbon_intensity_elec": 571.4285278320312
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "carbon_intensity_elec": 681.4735107421875
+  },
+  {
+    "country": "Tunisia",
+    "carbon_intensity_elec": 564.5463256835938
+  },
+  {
+    "country": "Turkey",
+    "carbon_intensity_elec": 482.4503173828125
+  },
+  {
+    "country": "Turkmenistan",
+    "carbon_intensity_elec": 1306.677001953125
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "carbon_intensity_elec": 640
+  },
+  {
+    "country": "Tuvalu",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "U.S. Pacific Islands (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Uganda",
+    "carbon_intensity_elec": 54.34782791137695
+  },
+  {
+    "country": "Ukraine",
+    "carbon_intensity_elec": 325.3941650390625
+  },
+  {
+    "country": "United Arab Emirates",
+    "carbon_intensity_elec": 645.6922607421875
+  },
+  {
+    "country": "United Kingdom",
+    "carbon_intensity_elec": 246.6814880371094
+  },
+  {
+    "country": "United States",
+    "carbon_intensity_elec": 411.6982116699219
+  },
+  {
+    "country": "United States Virgin Islands",
+    "carbon_intensity_elec": 640.625
+  },
+  {
+    "country": "Upper-middle-income countries",
+    "carbon_intensity_elec": 567.071044921875
+  },
+  {
+    "country": "Uruguay",
+    "carbon_intensity_elec": 94.32572174072266
+  },
+  {
+    "country": "Uzbekistan",
+    "carbon_intensity_elec": 1149.105590820312
+  },
+  {
+    "country": "Vanuatu",
+    "carbon_intensity_elec": 444.4444274902344
+  },
+  {
+    "country": "Venezuela",
+    "carbon_intensity_elec": 184.5733337402344
+  },
+  {
+    "country": "Vietnam",
+    "carbon_intensity_elec": 528.5655517578125
+  },
+  {
+    "country": "Wake Island (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Western Africa (EI)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Western Europe (EIA)",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "Western Sahara",
+    "carbon_intensity_elec": ""
+  },
+  {
+    "country": "World",
+    "carbon_intensity_elec": 491.9688720703125
+  },
+  {
+    "country": "Yemen",
+    "carbon_intensity_elec": 578.2313232421875
+  },
+  {
+    "country": "Zambia",
+    "carbon_intensity_elec": 135.2593536376953
+  },
+  {
+    "country": "Zimbabwe",
+    "carbon_intensity_elec": 371.0879211425781
+  }
+]
